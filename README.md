@@ -1,3 +1,3 @@
-- Resolução dos exercícios presentes no curso introdutório de Python da CodeAcademy;
+- Solution for all the exercises of the Python development introductory course from CodeAcademy; 
 - Python2;
-- Ano 2014;
+- Year 2014;
