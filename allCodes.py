@@ -1,4 +1,5 @@
-# Python v2.0 - 2014
+# @CodeAcademy
+# Python2 - 2014
 
 print "Welcome to the English to Pig Latin translator!\n"
 original = raw_input("Original word: ")
