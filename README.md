@@ -1,3 +1,3 @@
-- Solution for all the exercises of the Python development introductory course from CodeAcademy; 
+- Solution of all the exercises of the Python development introductory course from CodeAcademy; 
 - Python2;
 - Year 2014;
